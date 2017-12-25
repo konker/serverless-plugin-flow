@@ -1,0 +1,26 @@
+{
+  "name": "serverless-plugin-flow",
+  "version": "1.0.0",
+  "description": "Serverless integration for the Flow static type checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konker/serverless-plugin-flow.git"
+  },
+  "keywords": [
+    "Serverless",
+    "Plugin",
+    "Flow"
+  ],
+  "author": "Konrad Markus <konker@iki.fi>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konker/serverless-plugin-flow/issues"
+  },
+  "homepage": "https://github.com/konker/serverless-plugin-flow#readme",
+  "dependencies": {
+  }
+}
